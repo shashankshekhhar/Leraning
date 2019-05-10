@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="src/lib/mysql-connector-java-5.1.45-bin.jar"/>
+	<classpathentry kind="lib" path="src/lib/src.zip"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Desktop/history/TrayNotification.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Desktop/history/jfoenix-8.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Desktop/history/controlsfx-8.40.12.jar"/>
+	<classpathentry kind="lib" path="E:/Student_management/src/lib/commons-beanutils-1.8.2.jar"/>
+	<classpathentry kind="lib" path="E:/Student_management/src/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="E:/Student_management/src/lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="E:/Student_management/src/lib/commons-digester-2.1.jar"/>
+	<classpathentry kind="lib" path="E:/Student_management/src/lib/commons-javaflow-1066591.jar"/>
+	<classpathentry kind="lib" path="E:/Student_management/src/lib/commons-javaflow-1066591.jar.zip"/>
+	<classpathentry kind="lib" path="E:/Student_management/src/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/Student_management/src/lib/controlsfx-8.40.12.jar"/>
+	<classpathentry kind="lib" path="E:/Student_management/src/lib/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="E:/Student_management/src/lib/groovy-all-2.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/Student_management/src/lib/itext-2.1.7.jar"/>
+	<classpathentry kind="lib" path="E:/Student_management/src/lib/jar_files 2.zip"/>
+	<classpathentry kind="lib" path="E:/Student_management/src/lib/jar_files 12.zip"/>
+	<classpathentry kind="lib" path="E:/Student_management/src/lib/jar_files.zip"/>
+	<classpathentry kind="lib" path="E:/Student_management/src/lib/jasper-compiler-jdt-5.5.15.jar"/>
+	<classpathentry kind="lib" path="E:/Student_management/src/lib/jasperreports-5.5.0.jar"/>
+	<classpathentry kind="lib" path="E:/Student_management/src/lib/javax.servlet-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/Student_management/src/lib/jfoenix-8.0.7.jar"/>
+	<classpathentry kind="lib" path="E:/Student_management/src/lib/jfoenix-9.0.8.jar"/>
+	<classpathentry kind="lib" path="E:/Student_management/src/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="E:/Student_management/src/lib/mysql-connector-java-5.1.45-bin.jar"/>
+	<classpathentry kind="lib" path="E:/Student_management/src/lib/poi-3.16.jar"/>
+	<classpathentry kind="lib" path="E:/Student_management/src/lib/poi-ooxml-3.16.jar"/>
+	<classpathentry kind="lib" path="E:/Student_management/src/lib/poi-ooxml-schemas-3.16.jar"/>
+	<classpathentry kind="lib" path="E:/Student_management/src/lib/src.zip"/>
+	<classpathentry kind="lib" path="E:/Student_management/src/lib/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/Student_management/src/lib/TrayNotification.jar"/>
+	<classpathentry kind="lib" path="E:/Student_management/src/lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="out/production/javafx-mysql-crud"/>
+</classpath>
